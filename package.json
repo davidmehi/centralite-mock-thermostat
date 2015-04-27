@@ -1,0 +1,19 @@
+{
+  "name": "centralite-mock-thermostat",
+  "version": "0.0.1",
+  "description": "Mock Zetta thermostat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:centralite/centralite-mock-thermostat.git"
+  },
+  "author": "Kenny York <kennyyork@centralite.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zetta-device": "^0.10.0"
+  },
+  "homepage":"https://bitbucket.org/centralite/centralite-mock-thermostat"
+}
